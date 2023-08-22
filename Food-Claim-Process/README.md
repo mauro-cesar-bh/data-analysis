@@ -1,13 +1,16 @@
 # Data Analyst Associate Practical Exam
 Author: Mauro César
 
+### Deliverables
+[1. Executive Summary](https://github.com/mauro-cesar-bh/data-analysis/blob/main/Food-Claim-Process/Executive-Summary/Executive-Summary-Notebook.ipynb)
+
+[2. Jupyter Notebook Analysis](https://github.com/mauro-cesar-bh/data-analysis/blob/main/Food-Claim-Process/Food-Claim-Process-Analysis.ipynb)
+
 ### Tasks
 - Data Validation
 - Data Exploration
 - Descriptive Analytics
   
-Executive Summary
-[Jupyter Notebook Analysis](https://github.com/mauro-cesar-bh/data-analysis/blob/main/Food-Claim-Process/Food-Claim-Process-Analysis.ipynb)
 
 ### Context
 This folder contains the resolution of the [practical exam](https://s3.amazonaws.com/talent-assets.datacamp.com/Practical+-+DAA+-+Food+Claims+-+2212.pdf). 
