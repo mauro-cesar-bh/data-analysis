@@ -6,6 +6,7 @@ Author: Mauro César
 - Data Exploration
 - Descriptive Analytics
 
+[Jupyter Notebook Analysis](https://github.com/mauro-cesar-bh/data-analysis/blob/main/Caffeine-Form/Caffeine-Form-Notebook.ipynb)
 
 ### Context
 This notebook aims to reproduce the step by step to the [practical exam sample](https://s3.amazonaws.com/talent-assets.datacamp.com/Associate+DS+Case+Study+-+Coffee+Shops+-+Sample.pdf). 
