@@ -1,1 +1,1 @@
-All files needed to vizualise the Executive Summary at Github
+All files needed to visualize the Executive Summary at Github
