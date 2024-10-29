@@ -1,0 +1,2 @@
+total_revenue,avg_order_value,distinct_orders_per_country,top_products,top_customers
+22641.91,69.66741538461538,"{'Canada': 50, 'Australia': 48, 'Japan': 42, 'France': 41, 'UK': 33, 'USA': 28, 'Germany': 27}","{174: 494.1, 189: 445.8, 239: 440.1, 114: 430.0, 107: 373.0}","{485: 358.2, 159: 335.5, 376: 326.5}"
