@@ -5,6 +5,8 @@ Author: Mauro César
 1. [Jupyter notebook analysis with executive summary on top](https://github.com/mauro-cesar-bh/data-analysis/blob/main/Food-Claim-Process/Food-Claim-Process-Analysis.ipynb)
 
 2. [Slide deck presentation](https://github.com/mauro-cesar-bh/data-analysis/blob/main/Product-Sales-Office/Mauro%20-%20Product%20Sales%20-%20DA%20DataCamp.pdf)
+   
+3. Recorded Presentation [WIP]
 
 ### Tasks
 - Data Cleaning and Validation
