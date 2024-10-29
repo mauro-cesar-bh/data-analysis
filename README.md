@@ -14,3 +14,8 @@ This folder contains data analysis projects
 3. [Invoice Analysis](https://github.com/mauro-cesar-bh/data-analysis/blob/main/invoice-analysis/executive%20summary%20notebook.ipynb)
   - Invoice Product analysis.
 
+4. [Credit Analysis](https://github.com/mauro-cesar-bh/data-science/blob/main/credit-company-exam/Credit%20Analysis%20-%20Mauro%20Cesar.pdf)
+  - ML score for default
+  - Limit Framework
+  - Profitability Analysis
+
