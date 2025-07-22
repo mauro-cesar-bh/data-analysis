@@ -1,4 +1,4 @@
-# Email Fraud Public API
+# Email Fraud Score Public API
 
 ### Deliverables
 [1. Executive Summary](https://github.com/mauro-cesar-bh/data-analysis/blob/main/Food-Claim-Process/Executive-Summary/Executive-Summary-Notebook.ipynb)
